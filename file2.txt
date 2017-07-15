@@ -1,1 +1,2 @@
 This is file2.txt.
+Update to file2.txt.
